@@ -1,4 +1,4 @@
-package com.cimba.meetautocode;
+package com.cimba;
 
 public class HelloAutocode {
     public static void main(String[] args) {

@@ -23,6 +23,16 @@
         <module>JavaBasic/figures</module>
         <module>JavaBasic/figures-extra</module>
         <module>JavaBasic/go-dutch</module>
+        <module>JavaBasic/gradually-decreasing-carousel</module>
+        <module>JavaBasic/halving-carousel</module>
+        <module>JavaBasic/HelloAutoCode</module>
+        <module>JavaBasic/line-intersection</module>
+        <module>JavaBasic/local-maxima-remove</module>
+        <module>JavaBasic/max</module>
+        <module>JavaBasic/max-in-seq</module>
+        <module>JavaBasic/meet_a_stranger</module>
+        <module>JavaBasic/meet-an-agent</module>
+        <module>JavaBasic/meet-strangers</module>
     </modules>
 
     <properties>

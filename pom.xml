@@ -33,6 +33,23 @@
         <module>JavaBasic/meet_a_stranger</module>
         <module>JavaBasic/meet-an-agent</module>
         <module>JavaBasic/meet-strangers</module>
+        <module>JavaBasic/multiply-matrices</module>
+        <module>JavaBasic/optional-max</module>
+        <module>JavaBasic/pizza-split</module>
+        <module>JavaBasic/quadratic-equation</module>
+        <module>JavaBasic/requirements</module>
+        <module>JavaBasic/segments</module>
+        <module>JavaBasic/snail</module>
+        <module>JavaBasic/spiral</module>
+        <module>JavaBasic/sprint-planning</module>
+        <module>JavaBasic/sum-of-even-numbers</module>
+        <module>JavaBasic/sum-of-previous</module>
+        <module>JavaBasic/task-carousel</module>
+        <module>JavaBasic/transpose-matrix</module>
+        <module>JavaBasic/triangle</module>
+        <module>JavaBasic/validations-color-code</module>
+        <module>JavaBasic/validations-epam-email</module>
+        <module>JavaBasic/words</module>
     </modules>
 
     <properties>

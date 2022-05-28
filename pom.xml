@@ -9,9 +9,20 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Practice1</module>
-        <module>Practice2</module>
-        <module>Practice3</module>
+        <module>JavaBasic/arithmetic-expressions</module>
+        <module>JavaBasic/average</module>
+        <module>JavaBasic/battleship8x8</module>
+        <module>JavaBasic/beware-of-dogs</module>
+        <module>JavaBasic/catch-em-all</module>
+        <module>JavaBasic/compass</module>
+        <module>JavaBasic/contact-book</module>
+        <module>JavaBasic/cycle-swap</module>
+        <module>JavaBasic/decrementing-carousel</module>
+        <module>JavaBasic/decrementing-carousel-with-limit</module>
+        <module>JavaBasic/electronic-watch</module>
+        <module>JavaBasic/figures</module>
+        <module>JavaBasic/figures-extra</module>
+        <module>JavaBasic/go-dutch</module>
     </modules>
 
     <properties>

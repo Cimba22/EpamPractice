@@ -50,6 +50,7 @@
         <module>JavaBasic/validations-color-code</module>
         <module>JavaBasic/validations-epam-email</module>
         <module>JavaBasic/words</module>
+        <module>AdvancedJava/int-string-capped-map</module>
     </modules>
 
     <properties>
